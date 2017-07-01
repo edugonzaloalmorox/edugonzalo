@@ -1,0 +1,13 @@
+---
+title: Hola mundo
+author: Edu Gonzalo
+date: '2017-07-01'
+slug: hola-mundo
+categories:
+  - R
+  - Data
+  - Micro
+tags: []
+---
+
+This is the first post talking about nothing but creating a new site
